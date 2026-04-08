@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/karunacharya/Documents/DSA-yt/stack",
+      "program": "/Users/karunacharya/Documents/DSA-yt/stack/build/Debug/outDebug"
+    }
+  ]
+}
