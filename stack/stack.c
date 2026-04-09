@@ -32,6 +32,8 @@ void push(int x)
         top++;
         stack[top] = x;
     }
+    printf("Push element: %d\n", x);
+
 }
 
 void pop()

@@ -24,4 +24,4 @@ int main() {
     printf("The sequence of moves are:\n");
     TOH(n, 'A', 'B', 'C'); // A=source, B=auxiliary, C=destination
     return 0;
-}
+} 

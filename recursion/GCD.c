@@ -1,11 +1,9 @@
 #include <stdio.h>
-
-// Recursive function to find GCD
 int gcd(int a, int b) {
-    if (b == 0)       // Base case
+    if (b == 0)     
         return a;
     else
-        return gcd(b, a % b);  // Recursive call
+        return gcd(b, a % b); 
 }
 
 int main() {
